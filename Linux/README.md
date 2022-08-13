@@ -10,6 +10,7 @@ _Note:_ Note here
 
 **BOLD** 
 
+[link](https://github.com/alexandrma/TI_1000/blob/main/Linux/README.md)
 
 # Table of Contents
 
