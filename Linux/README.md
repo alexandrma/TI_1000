@@ -6,6 +6,27 @@
 - [Advanced](#Advanced)
 
 
+| No. | Questions                                                                                                  |
+| --- | ---------------------------------------------------------------------------------------------------------- |
+| 1   | What a purpose of Kernel?                                       |
+| 2   | What is a user space?                                                                                                          |
+
+
+| No. | Questions                                                                                                  |
+| --- | ---------------------------------------------------------------------------------------------------------- |
+| 1   | What a purpose of Kernel?                                                                                  |
+| 2   | What is a user space?                                                                                      |
+
+
+| No. | Level | Questions                                                                                                  |
+| --- | ----- | ---------------------------------------------------------------------------------------------------------- |
+| 1   | Beg   | What a purpose of Kernel?                                                                                  |
+| 2   | Beg   | What is a user space?                                                                                      |
+
+
+
+
+
 ## Beginner
 **What a purpose of Kernel?**
   * Processes The kernel is responsible for determining which processes are allowed to use the CPU.
