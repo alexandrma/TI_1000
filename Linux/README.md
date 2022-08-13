@@ -6,10 +6,10 @@
 - [Advanced](#Advanced)
 
 
-| No. | Questions                                                                                                  |
-| --- | ---------------------------------------------------------------------------------------------------------- |
-| 1   | What a purpose of Kernel?                                       |
-| 2   | What is a user space?                                                                                                          |
+| No. | Questions |
+| --- | --- |
+| 1   | What a purpose of Kernel? |
+| 2   | What is a user space? |
 
 
 | No. | Questions                                                                                                  |
