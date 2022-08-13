@@ -1,6 +1,6 @@
-# HEADER 1
+# Linux
 
-## HEADER 2
+## Beginner
 Text
 
 * point 1
