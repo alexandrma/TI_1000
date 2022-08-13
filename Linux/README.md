@@ -7,29 +7,15 @@
 
 
 ## Beginner
-Text
+**What a purpose of Kernel?**
+* Processes The kernel is responsible for determining which processes are allowed to use the CPU.
+* Memory The kernel needs to keep track of all memory—what is currently allocated to a particular process, what might be shared between processes, and what is free.
+* Device drivers The kernel acts as an interface between hardware (such as a disk) and processes. It’s usually the kernel’s job to operate the hardware.
+* System calls and support Processes normally use system calls to communicate with the kernel.
 
-| Question | Anawer |
-| Q1 | A1 |
-| Question | Anawer |
-| What a purpose of Kernel? | 
-* 1
-* 2 |
-
-
-
-
-| Question | Anawer | Description | Meta | 
-| :---------- | :---------- | :---------- | :----------: |
-| **Open Policy agent** | [https://github.com/open-policy-agent/opa](https://github.com/open-policy-agent/opa) | General-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack |![OPA](https://img.shields.io/github/stars/open-policy-agent/opa?style=for-the-badge) |
-| **Inspec** | [https://github.com/inspec/inspec](https://github.com/inspec/inspec) | Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. |![Inspec](https://img.shields.io/github/stars/inspec/inspec?style=for-the-badge) | 
-| **Cloud Formation guard** | [https://github.com/aws-cloudformation/cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard) | Cloud Formation policy as code |![cf-guard](https://img.shields.io/github/stars/aws-cloudformation/cloudformation-guard?style=for-the-badge) | 
-
-
-
-
-
-
+**What is a user space?**
+In a computer operating system, **user space** is the portion of memory containing unprivileged processes run by a user. It is strictly separated from kernel space, the portion of memory where privileged operating system kernel processes are executed.
+[link] (https://www.computerhope.com/jargon/u/user-space.htm)
 
 
 
