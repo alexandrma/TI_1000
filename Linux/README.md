@@ -37,7 +37,7 @@
 
 ### What is a user space?
 In a computer operating system, **user space** is the portion of memory containing unprivileged processes run by a user. It is strictly separated from kernel space, the portion of memory where privileged operating system kernel processes are executed.
-[link] (https://www.computerhope.com/jargon/u/user-space.htm)
+[link](https://www.computerhope.com/jargon/u/user-space.htm)
 
 
 <details>
@@ -52,7 +52,7 @@ In a computer operating system, **user space** is the portion of memory containi
 </details>
 
 <details>
-<summary>### What is a user space?</summary>
+<summary>What is a user space?</summary>
 In a computer operating system, **user space** is the portion of memory containing unprivileged processes run by a user. It is strictly separated from kernel space, the portion of memory where privileged operating system kernel processes are executed.
 [link] (https://www.computerhope.com/jargon/u/user-space.htm)
 </details>
